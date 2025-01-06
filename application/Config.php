@@ -1,6 +1,6 @@
 <?php
 
-define('BASE_URL', 'http://localhost/noticias_OK/');
+define('BASE_URL', 'http://localhost/noticias_Ancamil/');
 define('DEFAULT_CONTROLLER', 'index');
 define('DEFAULT_LAYOUT', 'default');
 define('APP_NAME', 'NOTICIAS_APP');
